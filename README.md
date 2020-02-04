@@ -6,4 +6,4 @@ Please follow the attached url above to view the application live.
 
 Registration/SignIn is required. The face recognition app uses the Clarifai API Face Detection Model. 
 
-App created as part of The Complete Web Developer in 2020: Zero to Mastery on Udemy.
+App created as part of The Complete Web Developer in 2020: Zero to Mastery course on Udemy.
