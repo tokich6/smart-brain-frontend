@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 The back end code can be found in the smart-brain-api repository.
 
-Please follow the attached url to view the live application.
+Please follow the attached url above to view the application live.
 
 Registration/SignIn is required. The face recognition app uses the Clarifai API Face Detection Model. 
 
