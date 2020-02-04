@@ -1,0 +1,19 @@
+.Tilt {
+    background-color: darkblue;
+    animation: App-logo-spin infinite 30s linear;
+    border-radius: 150%;
+}
+
+ .Tilt  img {
+  border-radius: 150%;
+}
+
+
+@keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
