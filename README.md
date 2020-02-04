@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-The back end code can be find in the smart-brain-api repository.
+The back end code can be found in the smart-brain-api repository.
 
 Please follow the attached url to view the live application.
 
